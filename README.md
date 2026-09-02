@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:111827,70:4338CA,100:06B6D4&text=Raghav%20Maheshwari&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Developer%20%7C%20Competitive%20Programmer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16&animation=fadeIn"/>
 
 <a href="https://github.com/RaghavMaheshwari-tech">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=780&lines=Building+scalable+full-stack+applications+%E2%9A%A1;900%2B+DSA+Problems+Solved+%F0%9F%A7%A0;LeetCode+Max+Rating+1611+%F0%9F%8F%86;Codeforces+Pupil+%7C+Max+1229;Backend+%C3%97+Frontend+%C3%97+Problem+Solving;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=0284C7&center=true&vCenter=true&width=780&lines=Building+scalable+full-stack+applications+%E2%9A%A1;900%2B+DSA+Problems+Solved+%F0%9F%A7%A0;LeetCode+Max+Rating+1611+%F0%9F%8F%86;Codeforces+Pupil+%7C+Max+1229;Backend+%C3%97+Frontend+%C3%97+Problem+Solving;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=850&color=38BDF8&center=true&vCenter=true&width=850&lines=%3E+Developer+who+loves+turning+ideas+into+products.;%3E+Problem+solver+who+enjoys+algorithms+and+DSA.;%3E+Full-Stack+Developer+focused+on+real-world+systems.;%3E+Build.+Debug.+Learn.+Improve.+Repeat." alt="About Me Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=850&color=0284C7&center=true&vCenter=true&width=850&lines=%3E+Developer+who+loves+turning+ideas+into+products.;%3E+Problem+solver+who+enjoys+algorithms+and+DSA.;%3E+Full-Stack+Developer+focused+on+real-world+systems.;%3E+Build.+Debug.+Learn.+Improve.+Repeat." alt="About Me Animation"/>
 
 </div>
 
@@ -90,7 +90,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=650&color=22D3EE&center=true&vCenter=true&width=900&lines=900%2B+DSA+Problems+Solved;LeetCode+Max+Rating+%E2%86%92+1611;Codeforces+Pupil+%E2%86%92+1229;Full-Stack+%2B+Backend+Engineering;MNIT+Jaipur+%E2%86%92+CGPA+8.50;Building+Production-Style+Applications" alt="Developer Snapshot"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=650&color=0284C7&center=true&vCenter=true&width=900&lines=900%2B+DSA+Problems+Solved;LeetCode+Max+Rating+%E2%86%92+1611;Codeforces+Pupil+%E2%86%92+1229;Full-Stack+%2B+Backend+Engineering;MNIT+Jaipur+%E2%86%92+CGPA+8.50;Building+Production-Style+Applications" alt="Developer Snapshot"/>
 
 <br/><br/>
 
@@ -98,7 +98,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 <tr>
 
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/DSA-900%2B-22D3EE?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/DSA-900%2B-0284C7?style=for-the-badge&labelColor=0F172A"/>
 <br/>
 <sub><b>Problems Solved</b></sub>
 </td>
@@ -331,7 +331,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 
 ## 🧠 Core Computer Science
 
-<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-22D3EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0284C7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Object_Oriented_Programming-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Operating_Systems-F59E0B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DBMS-10B981?style=for-the-badge"/>
@@ -445,57 +445,30 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/activity/contributions.dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assets/activity/contributions.light.svg"
-  />
-  <img
-    src="./assets/activity/contributions.dark.svg"
-    alt="GitHub Contributions"
-    width="100%"
-  />
-</picture>
+<img
+  src="./assets/activity/contributions.dark.svg"
+  alt="GitHub Contribution Activity"
+  width="100%"
+/>
 
 <br/><br/>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/activity/rhythm.dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assets/activity/rhythm.light.svg"
-  />
-  <img
-    src="./assets/activity/rhythm.dark.svg"
-    alt="Development Rhythm"
-    width="100%"
-  />
-</picture>
+<img
+  src="./assets/activity/rhythm.dark.svg"
+  alt="Development Rhythm"
+  width="100%"
+/>
 
 <br/><br/>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/activity/composition.dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assets/activity/composition.light.svg"
-  />
-  <img
-    src="./assets/activity/composition.dark.svg"
-    alt="Contribution Composition"
-    width="100%"
-  />
-</picture>
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=900&color=0284C7&center=true&vCenter=true&width=800&lines=Consistency+compounds.;Every+commit+is+a+small+step+forward.;Build.+Ship.+Learn.+Repeat."
+  alt="Developer Activity"
+/>
+
+<br/>
+
+<sub>⚡ Activity automatically refreshed through GitHub Actions</sub>
 
 </div>
 
@@ -503,29 +476,22 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 
 ---
 
+
 # 🐍 Contribution Flow
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/activity/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assets/activity/github-snake-light.svg"
-  />
-  <img
-    src="./assets/activity/github-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</picture>
-
-</div>
+<img
+  src="./assets/activity/github-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+  width="100%"
+/>
 
 <br/>
+
+<sub>🐍 Contribution graph updates automatically with my GitHub activity</sub>
+
+</div>
 
 <br/>
 
@@ -535,7 +501,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=Have+an+interesting+idea%3F+Let's+build+it.;Want+to+talk+DSA%2C+backend+or+full-stack%3F;Always+open+to+good+engineering+conversations." alt="Connect Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=0284C7&center=true&vCenter=true&width=800&lines=Have+an+interesting+idea%3F+Let's+build+it.;Want+to+talk+DSA%2C+backend+or+full-stack%3F;Always+open+to+good+engineering+conversations." alt="Connect Animation"/>
 
 <br/>
 
