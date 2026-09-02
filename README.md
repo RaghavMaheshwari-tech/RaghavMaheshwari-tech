@@ -442,23 +442,61 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 Developer Activity
 
 <div align="center">
 
-<img width="49%"
-src="https://github-readme-stats.shion.dev/api?username=RaghavMaheshwari-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-/>
-
-<img width="49%"
-src="https://github-readme-stats.shion.dev/api/top-langs/?username=RaghavMaheshwari-tech&layout=compact&theme=tokyonight&hide_border=true"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/activity/contributions.dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/activity/contributions.light.svg"
+  />
+  <img
+    src="./assets/activity/contributions.dark.svg"
+    alt="GitHub Contributions"
+    width="100%"
+  />
+</picture>
 
 <br/><br/>
 
-<img width="70%"
-src="https://streak-stats.demolab.com?user=RaghavMaheshwari-tech&theme=tokyonight&hide_border=true"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/activity/rhythm.dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/activity/rhythm.light.svg"
+  />
+  <img
+    src="./assets/activity/rhythm.dark.svg"
+    alt="Development Rhythm"
+    width="100%"
+  />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/activity/composition.dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/activity/composition.light.svg"
+  />
+  <img
+    src="./assets/activity/composition.dark.svg"
+    alt="Contribution Composition"
+    width="100%"
+  />
+</picture>
 
 </div>
 
@@ -466,15 +504,29 @@ src="https://streak-stats.demolab.com?user=RaghavMaheshwari-tech&theme=tokyonigh
 
 ---
 
-# 📈 Contribution Activity
+# 🐍 Contribution Flow
 
 <div align="center">
 
-<img width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=RaghavMaheshwari-tech&theme=tokyo-night&hide_border=true&area=true"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/activity/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/activity/github-snake-light.svg"
+  />
+  <img
+    src="./assets/activity/github-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</picture>
 
 </div>
+
+<br/>
 
 <br/>
 
