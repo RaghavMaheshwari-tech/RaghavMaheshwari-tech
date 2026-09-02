@@ -1,0 +1,62 @@
+name: Refresh Profile Activity
+
+on:
+  schedule:
+    - cron: "30 18 * * *"   # Daily ~12:00 AM IST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Generate GitHub activity cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: RaghavMaheshwari-tech
+
+          cards: contributions,composition,rhythm
+
+          output-dir: assets/activity
+
+          themes: light,dark
+
+          font: Inter
+          mono-font: JetBrains Mono
+
+          commit: false
+
+      - name: Generate Cyber Cyan contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: RaghavMaheshwari-tech
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+          outputs: |
+            assets/activity/github-snake-light.svg?palette=github-light&color_snake=#0891B2&color_dots=#F8FAFC,#CFFAFE,#67E8F9,#22D3EE,#0891B2
+            assets/activity/github-snake-dark.svg?palette=github-dark&color_snake=#22D3EE&color_dots=#0D1117,#083344,#0E7490,#06B6D4,#67E8F9
+
+      - name: Commit generated activity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/activity
+
+          if git diff --cached --quiet; then
+            echo "No profile changes."
+          else
+            git commit -m "chore(profile): refresh activity [skip ci]"
+            git push
+          fi
