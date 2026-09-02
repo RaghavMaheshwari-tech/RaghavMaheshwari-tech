@@ -446,13 +446,19 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RaghavMaheshwari-tech&show_icons=true&hide_border=true&theme=transparent&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1&rank_icon=github&include_all_commits=true"/>
+<img width="49%"
+src="https://github-readme-stats.shion.dev/api?username=RaghavMaheshwari-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavMaheshwari-tech&layout=compact&hide_border=true&theme=transparent&title_color=22D3EE&text_color=CBD5E1"/>
+<img width="49%"
+src="https://github-readme-stats.shion.dev/api/top-langs/?username=RaghavMaheshwari-tech&layout=compact&theme=tokyonight&hide_border=true"
+/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=RaghavMaheshwari-tech&theme=transparent&hide_border=true&stroke=22D3EE&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8"/>
+<img width="70%"
+src="https://streak-stats.demolab.com?user=RaghavMaheshwari-tech&theme=tokyonight&hide_border=true"
+/>
 
 </div>
 
@@ -464,7 +470,9 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RaghavMaheshwari-tech&bg_color=00000000&color=22D3EE&line=06B6D4&point=FFFFFF&area=true&hide_border=true"/>
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=RaghavMaheshwari-tech&theme=tokyo-night&hide_border=true&area=true"
+/>
 
 </div>
 
