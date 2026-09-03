@@ -484,12 +484,12 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 <img
   src="./assets/activity/github-snake-dark.svg"
   alt="GitHub Contribution Snake"
-  width="100%"
+  width="95%"
 />
 
 <br/>
 
-<sub>🐍 Contribution graph updates automatically with my GitHub activity</sub>
+<sub>⚡ Live contribution trail · automatically refreshed</sub>
 
 </div>
 
