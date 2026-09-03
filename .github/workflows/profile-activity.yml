@@ -2,7 +2,7 @@ name: Refresh Profile Activity
 
 on:
   schedule:
-    - cron: "30 18 * * *"   # Daily ~12:00 AM IST
+    - cron: "0 * * * *"   # Daily ~12:00 AM IST
   workflow_dispatch:
 
 permissions:
