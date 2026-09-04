@@ -376,7 +376,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 <tr>
 
 <td align="center">
-<h3>🧩 900+</h3>
+<h3>🧩 1000+</h3>
 <b>DSA Problems</b>
 <br/>
 <sub>Solved across platforms</sub>
