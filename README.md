@@ -64,9 +64,9 @@ developer:
     - REST APIs
 
   competitive_programming:
-    solved: "900+ Problems"
+    solved: "1000+ Problems"
     leetcode: "1611 Max Rating"
-    codeforces: "Pupil · 1229"
+    codeforces: "Pupil · 1239"
 
   mindset: "Learn deeply. Build practically. Improve continuously."
 ```
@@ -418,7 +418,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 
 - 🧩 Solved **1000+ Data Structures & Algorithms problems**
 - 🟠 Achieved a **LeetCode Max Rating of 1611**
-- 🔵 Achieved **Codeforces Pupil** with a maximum rating of **1229**
+- 🔵 Achieved **Codeforces Pupil** with a maximum rating of **1239**
 - 🧠 Regularly practice algorithmic problem solving and competitive programming
 
 </details>
