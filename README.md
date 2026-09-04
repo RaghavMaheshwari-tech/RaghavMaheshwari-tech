@@ -416,7 +416,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 
 <br/>
 
-- 🧩 Solved **900+ Data Structures & Algorithms problems**
+- 🧩 Solved **1000+ Data Structures & Algorithms problems**
 - 🟠 Achieved a **LeetCode Max Rating of 1611**
 - 🔵 Achieved **Codeforces Pupil** with a maximum rating of **1229**
 - 🧠 Regularly practice algorithmic problem solving and competitive programming
