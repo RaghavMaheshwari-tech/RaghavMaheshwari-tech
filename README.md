@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:111827,70:4338CA,100:06B6D4&text=Raghav%20Maheshwari&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Developer%20%7C%20Competitive%20Programmer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16&animation=fadeIn"/>
 
 <a href="https://github.com/RaghavMaheshwari-tech">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=0284C7&center=true&vCenter=true&width=780&lines=Building+scalable+full-stack+applications+%E2%9A%A1;900%2B+DSA+Problems+Solved+%F0%9F%A7%A0;LeetCode+Max+Rating+1611+%F0%9F%8F%86;Codeforces+Pupil+%7C+Max+1229;Backend+%C3%97+Frontend+%C3%97+Problem+Solving;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=0284C7&center=true&vCenter=true&width=780&lines=Building+scalable+full-stack+applications+%E2%9A%A1;1000%2B+DSA+Problems+Solved+%F0%9F%A7%A0;LeetCode+Max+Rating+1615+%F0%9F%8F%86;Codeforces+Pupil+%7C+Max+1229;Backend+%C3%97+Frontend+%C3%97+Problem+Solving;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -37,7 +37,7 @@
 ```yaml
 developer:
   name: "Raghav Maheshwari"
-  education: "B.Tech @ MNIT Jaipur"
+  education: "B.Tech in Chemical Engineering @ MNIT Jaipur"
   specialization: "Minor in Computer Science & Engineering"
 
   interested_in:
@@ -51,9 +51,7 @@ developer:
     - Advanced DSA
     - Backend Architecture
     - TypeScript
-    - System Design
     - Database Design
-    - Cloud & Deployment
 
   engineering_with:
     - React.js
@@ -65,7 +63,7 @@ developer:
 
   competitive_programming:
     solved: "1000+ Problems"
-    leetcode: "1611 Max Rating"
+    leetcode: "1615 Max Rating"
     codeforces: "Pupil · 1239"
 
   mindset: "Learn deeply. Build practically. Improve continuously."
@@ -90,7 +88,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=650&color=0284C7&center=true&vCenter=true&width=900&lines=900%2B+DSA+Problems+Solved;LeetCode+Max+Rating+%E2%86%92+1611;Codeforces+Pupil+%E2%86%92+1229;Full-Stack+%2B+Backend+Engineering;MNIT+Jaipur+%E2%86%92+CGPA+8.50;Building+Production-Style+Applications" alt="Developer Snapshot"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=650&color=0284C7&center=true&vCenter=true&width=900&lines=1000%2B+DSA+Problems+Solved;LeetCode+Max+Rating+%E2%86%92+1615;Codeforces+Pupil+%E2%86%92+1229;Full-Stack+%2B+Backend+Engineering;MNIT+Jaipur+%E2%86%92+CGPA+8.50;Building+Production-Style+Applications" alt="Developer Snapshot"/>
 
 <br/><br/>
 
@@ -98,19 +96,19 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 <tr>
 
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/DSA-900%2B-0284C7?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/DSA-1000%2B-0284C7?style=for-the-badge&labelColor=0F172A"/>
 <br/>
 <sub><b>Problems Solved</b></sub>
 </td>
 
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/LeetCode-1611-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/LeetCode-1615-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0F172A"/>
 <br/>
 <sub><b>Max Rating</b></sub>
 </td>
 
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/Codeforces-1229-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Codeforces-1239-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0F172A"/>
 <br/>
 <sub><b>Pupil</b></sub>
 </td>
@@ -134,7 +132,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 
 ### 🏆 Problem Solving
 
-`900+ DSA Problems` &nbsp; • &nbsp; `LeetCode 1611` &nbsp; • &nbsp; `Codeforces Pupil`
+`1000+ DSA Problems` &nbsp; • &nbsp; `LeetCode 1615` &nbsp; • &nbsp; `Codeforces Pupil`
 
 ### ⚙️ Development
 
@@ -173,7 +171,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 </a>
 </p>
 
-- ⚙️ Engineered **37 Express REST endpoints** for problem authoring, code submissions, user dashboards and role-based admin workflows.
+- ⚙️ Engineered **37 Express REST endpoints** for problem authoring, code submissions, user dashboards, role-based admin workflows, and secure Cloudinary video uploads.
 - ⚡ Integrated **Judge0 batch execution** for multi-language code evaluation with visible and hidden test cases.
 - 📊 Delivered automated verdicts, runtime analysis, memory tracking and complete submission history.
 - 🏁 Developed scheduled contests with protected problem visibility, submission deadlines, difficulty-weighted scoring and real-time leaderboards.
@@ -383,7 +381,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 </td>
 
 <td align="center">
-<h3>🟠 1611</h3>
+<h3>🟠 1615</h3>
 <b>LeetCode</b>
 <br/>
 <sub>Maximum Rating</sub>
@@ -393,7 +391,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 <h3>🔵 Pupil</h3>
 <b>Codeforces</b>
 <br/>
-<sub>Maximum Rating 1229</sub>
+<sub>Maximum Rating 1239</sub>
 </td>
 
 <td align="center">
@@ -417,7 +415,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 <br/>
 
 - 🧩 Solved **1000+ Data Structures & Algorithms problems**
-- 🟠 Achieved a **LeetCode Max Rating of 1611**
+- 🟠 Achieved a **LeetCode Max Rating of 1615**
 - 🔵 Achieved **Codeforces Pupil** with a maximum rating of **1239**
 - 🧠 Regularly practice algorithmic problem solving and competitive programming
 
@@ -428,13 +426,15 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 
 <br/>
 
-- 🎓 Pursuing **B.Tech at MNIT Jaipur**
+- 🎓 Pursuing **B.Tech in Chemical Engineering at MNIT Jaipur**
 - 💻 Minor specialization in **Computer Science & Engineering**
 - 📊 Current **CGPA — 8.50**
 - 📚 Class XII — **92.2%**
 - 📚 Class X — **95.6%**
-- 👔 **Executive — Think India Club**
-- ⚙️ Coordinated technical events as part of the club
+- 👔 **Vice-President — QuantCode**
+- ⚙️ Leading coding events, workshops, and community initiatives
+- 👔 **Technical Executive — Think India**
+- ⚙️ Organized technical events and mentored students in DSA
 
 </details>
 
