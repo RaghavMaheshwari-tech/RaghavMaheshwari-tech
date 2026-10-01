@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:111827,70:4338CA,100:06B6D4&text=Raghav%20Maheshwari&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Developer%20%7C%20Competitive%20Programmer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16&animation=fadeIn"/>
 
 <a href="https://github.com/RaghavMaheshwari-tech">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=0284C7&center=true&vCenter=true&width=780&lines=Building+scalable+full-stack+applications+%E2%9A%A1;1000%2B+DSA+Problems+Solved+%F0%9F%A7%A0;LeetCode+Max+Rating+1615+%F0%9F%8F%86;Codeforces+Pupil+%7C+Max+1239;Backend+%C3%97+Frontend+%C3%97+Problem+Solving;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=0284C7&center=true&vCenter=true&width=780&lines=Building+scalable+full-stack+applications+%E2%9A%A1;900%2B+DSA+Problems+Solved+%F0%9F%A7%A0;LeetCode+Max+Rating+1611+%F0%9F%8F%86;Codeforces+Pupil+%7C+Max+1229;Backend+%C3%97+Frontend+%C3%97+Problem+Solving;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -11,15 +11,11 @@
 <a href="https://www.linkedin.com/in/raghavmaheshwari-tech/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 &nbsp;
-
 <a href="https://github.com/RaghavMaheshwari-tech">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 &nbsp;
-
 <a href="mailto:raghavmaheshwari945@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -42,7 +38,7 @@
 developer:
   name: "Raghav Maheshwari"
   education: "B.Tech @ MNIT Jaipur"
-  specialization: "Chemical Engineering | Minor in Computer Science & Engineering"
+  specialization: "Minor in Computer Science & Engineering"
 
   interested_in:
     - Software Development
@@ -55,7 +51,9 @@ developer:
     - Advanced DSA
     - Backend Architecture
     - TypeScript
+    - System Design
     - Database Design
+    - Cloud & Deployment
 
   engineering_with:
     - React.js
@@ -67,7 +65,7 @@ developer:
 
   competitive_programming:
     solved: "1000+ Problems"
-    leetcode: "1615 Max Rating"
+    leetcode: "1611 Max Rating"
     codeforces: "Pupil · 1239"
 
   mindset: "Learn deeply. Build practically. Improve continuously."
@@ -92,7 +90,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=650&color=0284C7&center=true&vCenter=true&width=900&lines=1000%2B+DSA+Problems+Solved;LeetCode+Max+Rating+%E2%86%92+1615;Codeforces+Pupil+%E2%86%92+1239;Full-Stack+%2B+Backend+Engineering;MNIT+Jaipur+%E2%86%92+CGPA+8.50;Building+Production-Style+Applications" alt="Developer Snapshot"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=650&color=0284C7&center=true&vCenter=true&width=900&lines=900%2B+DSA+Problems+Solved;LeetCode+Max+Rating+%E2%86%92+1611;Codeforces+Pupil+%E2%86%92+1229;Full-Stack+%2B+Backend+Engineering;MNIT+Jaipur+%E2%86%92+CGPA+8.50;Building+Production-Style+Applications" alt="Developer Snapshot"/>
 
 <br/><br/>
 
@@ -100,19 +98,19 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 <tr>
 
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/DSA-1000%2B-0284C7?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/DSA-900%2B-0284C7?style=for-the-badge&labelColor=0F172A"/>
 <br/>
 <sub><b>Problems Solved</b></sub>
 </td>
 
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/LeetCode-1615-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/LeetCode-1611-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0F172A"/>
 <br/>
 <sub><b>Max Rating</b></sub>
 </td>
 
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/Codeforces-1239-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Codeforces-1229-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0F172A"/>
 <br/>
 <sub><b>Pupil</b></sub>
 </td>
@@ -136,7 +134,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 
 ### 🏆 Problem Solving
 
-`1000+ DSA Problems` &nbsp; • &nbsp; `LeetCode 1615` &nbsp; • &nbsp; `Codeforces Pupil`
+`900+ DSA Problems` &nbsp; • &nbsp; `LeetCode 1611` &nbsp; • &nbsp; `Codeforces Pupil`
 
 ### ⚙️ Development
 
@@ -161,7 +159,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 > A production-style coding platform built around online code execution, contests, AI-assisted debugging, authentication, payments and administrative workflows.
 
 **Tech Stack:**  
-`React.js` · `Node.js` · `Express.js` · `MongoDB` · `Redis` · `Judge0` · `Gemini AI` · `Cloudinary` · `Tailwind CSS`
+`React.js` · `Node.js` · `Express.js` · `MongoDB` · `Redis` · `Judge0` · `Gemini API` · `Cloudinary` · `Tailwind CSS`
 
 <p>
 <a href="https://algoarena.maheshwari.site/">
@@ -175,10 +173,10 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 </a>
 </p>
 
-- ⚙️ Engineered **37 Express REST endpoints** for problem authoring, code submissions, user dashboards, role-based admin workflows, and secure Cloudinary video uploads.
+- ⚙️ Engineered **37 Express REST endpoints** for problem authoring, code submissions, user dashboards and role-based admin workflows.
 - ⚡ Integrated **Judge0 batch execution** for multi-language code evaluation with visible and hidden test cases.
 - 📊 Delivered automated verdicts, runtime analysis, memory tracking and complete submission history.
-- 🏁 Developed scheduled contests with protected problem visibility, submission deadlines, difficulty-weighted scoring and indexed MongoDB queries for real-time leaderboards.
+- 🏁 Developed scheduled contests with protected problem visibility, submission deadlines, difficulty-weighted scoring and real-time leaderboards.
 - 🔐 Implemented **Google OAuth 2.0, JWT, bcrypt, Redis token blacklisting and RBAC**.
 - 🧠 Integrated **Gemini API** for context-aware hints and debugging assistance.
 - 💳 Secured Razorpay transactions using server-side **HMAC signature verification** and amount validation.
@@ -211,7 +209,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 - 🏠 Built **18 REST endpoints** covering listings, reviews, bookings, filtering, pagination and user-specific dashboards.
 - 🔐 Designed secure authentication using **JWT, bcrypt and Redis token blacklisting**.
 - 🛡️ Implemented ownership-based authorization to protect user-specific resources.
-- 📅 Recalculated dates, nights and taxes entirely **server-side**, stored draft sessions in Redis, and rate-limited order creation.
+- 📅 Recalculated dates, nights, taxes and booking prices entirely **server-side**.
 - ⚡ Used **Redis** for temporary booking sessions and rate limiting.
 - 💳 Implemented **HMAC signature verification** before persisting Razorpay transactions.
 - ☁️ Maintained data integrity through cascading deletion of related reviews and Cloudinary assets.
@@ -227,7 +225,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 > A responsive food discovery application built around real-time APIs, centralized state management and optimized frontend experiences.
 
 **Tech Stack:**  
-`React.js` · `Redux Toolkit` · `React Router` · `Tailwind CSS` · `Parcel`
+`React.js` · `Redux Toolkit` · `React Router` · `Tailwind CSS` · `Parcel` · `REST APIs`
 
 <p>
 <a href="https://swiggy.maheshwari.site/">
@@ -257,7 +255,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 
 ## 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,python&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts&theme=dark"/>
 
 <br/><br/>
 
@@ -265,8 +263,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-Basics-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-Basics-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 <br/><br/>
 
@@ -293,7 +290,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Judge0-Code_Execution-2563EB?style=for-the-badge"/>
@@ -322,7 +319,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 
 ## 🔧 Developer Tools
 
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
 <br/><br/>
 
@@ -358,7 +355,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 
 ### `Authentication & Authorization` • `Caching`
 
-### `Performance` • `Scalability`
+### `Performance` • `Scalability` • `System Design`
 
 <br/>
 
@@ -386,7 +383,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 </td>
 
 <td align="center">
-<h3>🟠 1615</h3>
+<h3>🟠 1611</h3>
 <b>LeetCode</b>
 <br/>
 <sub>Maximum Rating</sub>
@@ -396,7 +393,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 <h3>🔵 Pupil</h3>
 <b>Codeforces</b>
 <br/>
-<sub>Maximum Rating 1239</sub>
+<sub>Maximum Rating 1229</sub>
 </td>
 
 <td align="center">
@@ -414,15 +411,13 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 
 <br/>
 
----
-
 <details>
 <summary><b>⚡ Competitive Programming</b></summary>
 
 <br/>
 
 - 🧩 Solved **1000+ Data Structures & Algorithms problems**
-- 🟠 Achieved a **LeetCode Max Rating of 1615**
+- 🟠 Achieved a **LeetCode Max Rating of 1611**
 - 🔵 Achieved **Codeforces Pupil** with a maximum rating of **1239**
 - 🧠 Regularly practice algorithmic problem solving and competitive programming
 
@@ -433,22 +428,19 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 
 <br/>
 
-- 🎓 Pursuing **B.Tech in Chemical Engineering at MNIT Jaipur**
-- 💻 Minor specialization in **Computer Science and Engineering**
+- 🎓 Pursuing **B.Tech at MNIT Jaipur**
+- 💻 Minor specialization in **Computer Science & Engineering**
 - 📊 Current **CGPA — 8.50**
 - 📚 Class XII — **92.2%**
 - 📚 Class X — **95.6%**
-- 👔 **Vice-President — QuantCode**
-- ⚙️ Leading coding events, workshops, and community initiatives
-- 👔 **Technical Executive — Think India**
-- ⚙️ Organized technical events and mentored students in DSA
+- 👔 **Executive — Think India Club**
+- ⚙️ Coordinated technical events as part of the club
 
 </details>
 
 <br/>
 
 ---
-
 # 📊 Developer Activity
 
 <div align="center">
@@ -484,6 +476,7 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 
 ---
 
+
 # 🐍 Contribution Flow
 
 <div align="center">
@@ -508,4 +501,28 @@ from REST APIs and authentication to databases, caching, payments and real-time 
 
 <div align="center">
 
-<img src="https://
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=0284C7&center=true&vCenter=true&width=800&lines=Have+an+interesting+idea%3F+Let's+build+it.;Want+to+talk+DSA%2C+backend+or+full-stack%3F;Always+open+to+good+engineering+conversations." alt="Connect Animation"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/raghavmaheshwari-tech/">
+<img src="https://img.shields.io/badge/LinkedIn-Raghav_Maheshwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:raghavmaheshwari945@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/RaghavMaheshwari-tech">
+<img src="https://img.shields.io/badge/GitHub-RaghavMaheshwari--tech-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### `while(alive) { learn(); build(); debug(); improve(); }`
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,35:111827,70:4338CA,100:06B6D4"/>
+
+</div>
